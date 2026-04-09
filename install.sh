@@ -94,4 +94,4 @@ case $PROFILE in
     *) echo "❌ Unknown profile"; exit 1 ;;
 esac
 
-echo "✅ Setup complete. Welcome to iForge."
+echo "✅ Setup complete. Essential tools installed"
